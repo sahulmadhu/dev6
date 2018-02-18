@@ -1,8 +1,1 @@
-hi 
-this is madhu
-<<<<<<< HEAD
-this is new
-=======
-this is new 
->>>>>>> dev
 this
